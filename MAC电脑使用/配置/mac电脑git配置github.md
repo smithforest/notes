@@ -10,7 +10,7 @@ git config --global user.email "smithforest@126.com"
 一路回车 默认不设置密码
 
 ```cmd
-ssh-keygen -t rsa -C "smithforest@126.com"
+ssh-keygen -t rsa -C "smithforest@126.coßm"
 ```
 
-![截屏2024-07-10 00.20.33](assets/截屏2024-07-10 00.20.33.png)
+![截屏2024-07-10 00.20.33](assets/截屏2024-07-10 00.20.33-0164616-0164623.png)
